@@ -1,0 +1,35 @@
+h1 {
+  color: blue;
+  font-size: 20px;
+}
+
+div {
+  font-size: 30px;
+}
+
+img {
+  width: 500px;
+}
+
+h2 {
+  color: blue;
+}
+
+.block {
+  background-color: black;
+}
+.block h3 {
+  color: blue;
+}
+.block block_color {
+  color: blue;
+}
+.block button {
+  display: block;
+  width: 250px;
+  height: 200px;
+  background-color: red;
+}
+.block_color {
+  color: blue;
+}
